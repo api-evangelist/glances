@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Glances is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nicolargo.github.io/glances
+Glances is an open‑source, cross‑platform system monitoring tool written in Python. It provides a curses‑based interface, a web UI, and a RESTful JSON API (plus XML‑RPC) that can be used to retrieve real‑time metrics such as CPU, memory, load, disk I/O, network, sensors, containers and more. The tool runs on Linux, BSD, macOS and Windows, and can export data to various back‑ends like InfluxDB, Elasticsearch, RabbitMQ, and Grafana. It is actively maintained by the community and documented at Read the Docs.
+
+**Areas:** Company · Monitoring · Open-Source · Python · Cross-Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nicolargo.github.io/glances)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/glances/](https://apis.io/providers/glances/).
